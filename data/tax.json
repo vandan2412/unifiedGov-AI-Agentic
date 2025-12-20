@@ -1,322 +1,402 @@
 [
   {
     "citizen_id": "C001",
-    "declared_income": 846871
+    "declared_income": 494604
   },
   {
     "citizen_id": "C002",
-    "declared_income": 545093
+    "declared_income": null
   },
   {
     "citizen_id": "C003",
-    "declared_income": 223782
+    "declared_income": 247081
   },
   {
     "citizen_id": "C004",
-    "declared_income": 147385
+    "declared_income": 348113
   },
   {
     "citizen_id": "C005",
-    "declared_income": 300348
+    "declared_income": null
+  },
+  {
+    "citizen_id": "C006",
+    "declared_income": null
+  },
+  {
+    "citizen_id": "C007",
+    "declared_income": 492409
   },
   {
     "citizen_id": "C008",
-    "declared_income": 119872
+    "declared_income": 786412
+  },
+  {
+    "citizen_id": "C009",
+    "declared_income": 103660
   },
   {
     "citizen_id": "C010",
-    "declared_income": 70252
+    "declared_income": 889324
+  },
+  {
+    "citizen_id": "C011",
+    "declared_income": 455803
   },
   {
     "citizen_id": "C012",
-    "declared_income": 313266
+    "declared_income": null
   },
   {
     "citizen_id": "C013",
-    "declared_income": 570669
+    "declared_income": 800813
   },
   {
     "citizen_id": "C014",
-    "declared_income": 779994
+    "declared_income": 134697
   },
   {
     "citizen_id": "C015",
-    "declared_income": 853845
+    "declared_income": 78265
   },
   {
     "citizen_id": "C016",
-    "declared_income": 626114
+    "declared_income": 267286
   },
   {
     "citizen_id": "C017",
-    "declared_income": 96500
+    "declared_income": 447573
   },
   {
     "citizen_id": "C018",
-    "declared_income": 143206
+    "declared_income": 252763
   },
   {
     "citizen_id": "C019",
-    "declared_income": 839821
+    "declared_income": 298420
+  },
+  {
+    "citizen_id": "C020",
+    "declared_income": 627340
   },
   {
     "citizen_id": "C021",
-    "declared_income": 84050
+    "declared_income": 633342
   },
   {
     "citizen_id": "C022",
-    "declared_income": 120289
+    "declared_income": null
+  },
+  {
+    "citizen_id": "C023",
+    "declared_income": null
   },
   {
     "citizen_id": "C024",
-    "declared_income": 58850
+    "declared_income": 272523
   },
   {
     "citizen_id": "C025",
-    "declared_income": 217171
+    "declared_income": 278418
   },
   {
     "citizen_id": "C026",
-    "declared_income": 563515
+    "declared_income": 110457
   },
   {
     "citizen_id": "C027",
-    "declared_income": 883091
+    "declared_income": 205102
+  },
+  {
+    "citizen_id": "C028",
+    "declared_income": null
   },
   {
     "citizen_id": "C029",
-    "declared_income": 757066
+    "declared_income": null
   },
   {
     "citizen_id": "C030",
-    "declared_income": 820240
+    "declared_income": 347918
   },
   {
     "citizen_id": "C031",
-    "declared_income": 767730
+    "declared_income": 211791
+  },
+  {
+    "citizen_id": "C032",
+    "declared_income": 104095
   },
   {
     "citizen_id": "C033",
-    "declared_income": 705421
+    "declared_income": 423160
   },
   {
     "citizen_id": "C034",
-    "declared_income": 104836
+    "declared_income": 261992
   },
   {
     "citizen_id": "C035",
-    "declared_income": 238763
+    "declared_income": 50502
   },
   {
     "citizen_id": "C036",
-    "declared_income": 644782
+    "declared_income": null
   },
   {
     "citizen_id": "C037",
-    "declared_income": 50664
+    "declared_income": 695910
+  },
+  {
+    "citizen_id": "C038",
+    "declared_income": 232656
   },
   {
     "citizen_id": "C039",
-    "declared_income": 782902
+    "declared_income": 73342
+  },
+  {
+    "citizen_id": "C040",
+    "declared_income": 498002
   },
   {
     "citizen_id": "C041",
-    "declared_income": 125593
+    "declared_income": 128364
   },
   {
     "citizen_id": "C042",
-    "declared_income": 113677
+    "declared_income": null
   },
   {
     "citizen_id": "C043",
-    "declared_income": 222610
+    "declared_income": 123368
   },
   {
     "citizen_id": "C044",
-    "declared_income": 208569
+    "declared_income": 247508
   },
   {
     "citizen_id": "C045",
-    "declared_income": 50536
+    "declared_income": 101002
   },
   {
     "citizen_id": "C046",
-    "declared_income": 635704
+    "declared_income": 240885
+  },
+  {
+    "citizen_id": "C047",
+    "declared_income": 56106
   },
   {
     "citizen_id": "C048",
-    "declared_income": 494176
+    "declared_income": 698162
   },
   {
     "citizen_id": "C049",
-    "declared_income": 135008
+    "declared_income": null
   },
   {
     "citizen_id": "C050",
-    "declared_income": 115044
+    "declared_income": null
   },
   {
     "citizen_id": "C051",
-    "declared_income": 750912
+    "declared_income": 204921
   },
   {
     "citizen_id": "C052",
-    "declared_income": 123216
+    "declared_income": 53705
   },
   {
     "citizen_id": "C053",
-    "declared_income": 851227
+    "declared_income": 253132
   },
   {
     "citizen_id": "C054",
-    "declared_income": 204168
+    "declared_income": 872002
   },
   {
     "citizen_id": "C055",
-    "declared_income": 204418
+    "declared_income": null
   },
   {
     "citizen_id": "C056",
-    "declared_income": 231000
+    "declared_income": 826154
   },
   {
     "citizen_id": "C057",
-    "declared_income": 256783
+    "declared_income": null
+  },
+  {
+    "citizen_id": "C058",
+    "declared_income": 62366
   },
   {
     "citizen_id": "C059",
-    "declared_income": 711588
+    "declared_income": 699789
   },
   {
     "citizen_id": "C060",
-    "declared_income": 141464
+    "declared_income": 316387
   },
   {
     "citizen_id": "C061",
-    "declared_income": 104364
+    "declared_income": 145623
   },
   {
     "citizen_id": "C062",
-    "declared_income": 149520
+    "declared_income": 880596
+  },
+  {
+    "citizen_id": "C063",
+    "declared_income": null
   },
   {
     "citizen_id": "C064",
-    "declared_income": 93873
+    "declared_income": 882604
   },
   {
     "citizen_id": "C065",
-    "declared_income": 268479
+    "declared_income": 133194
   },
   {
     "citizen_id": "C066",
-    "declared_income": 285506
+    "declared_income": null
   },
   {
     "citizen_id": "C067",
-    "declared_income": 814031
+    "declared_income": 105968
+  },
+  {
+    "citizen_id": "C068",
+    "declared_income": 665097
   },
   {
     "citizen_id": "C069",
-    "declared_income": 99053
+    "declared_income": null
+  },
+  {
+    "citizen_id": "C070",
+    "declared_income": null
   },
   {
     "citizen_id": "C071",
-    "declared_income": 826904
+    "declared_income": 128652
   },
   {
     "citizen_id": "C072",
-    "declared_income": 682122
+    "declared_income": 211667
   },
   {
     "citizen_id": "C073",
-    "declared_income": 636483
+    "declared_income": 609723
+  },
+  {
+    "citizen_id": "C074",
+    "declared_income": 204868
   },
   {
     "citizen_id": "C075",
-    "declared_income": 107508
+    "declared_income": null
   },
   {
     "citizen_id": "C076",
-    "declared_income": 526454
+    "declared_income": 101906
   },
   {
     "citizen_id": "C077",
-    "declared_income": 672526
+    "declared_income": 410345
   },
   {
     "citizen_id": "C078",
-    "declared_income": 208679
+    "declared_income": 230863
   },
   {
     "citizen_id": "C079",
-    "declared_income": 66198
+    "declared_income": 511860
   },
   {
     "citizen_id": "C080",
-    "declared_income": 108245
+    "declared_income": 109719
   },
   {
     "citizen_id": "C081",
-    "declared_income": 132077
+    "declared_income": 205431
   },
   {
     "citizen_id": "C082",
-    "declared_income": 740882
+    "declared_income": null
   },
   {
     "citizen_id": "C083",
-    "declared_income": 277983
+    "declared_income": 601189
   },
   {
     "citizen_id": "C084",
-    "declared_income": 280475
+    "declared_income": null
   },
   {
     "citizen_id": "C085",
-    "declared_income": 815072
+    "declared_income": 119625
   },
   {
     "citizen_id": "C086",
-    "declared_income": 336843
+    "declared_income": 520283
+  },
+  {
+    "citizen_id": "C087",
+    "declared_income": null
   },
   {
     "citizen_id": "C088",
-    "declared_income": 699912
+    "declared_income": 264482
+  },
+  {
+    "citizen_id": "C089",
+    "declared_income": 71696
   },
   {
     "citizen_id": "C090",
-    "declared_income": 247414
+    "declared_income": 404071
   },
   {
     "citizen_id": "C091",
-    "declared_income": 255743
+    "declared_income": 141650
   },
   {
     "citizen_id": "C092",
-    "declared_income": 654373
+    "declared_income": null
   },
   {
     "citizen_id": "C093",
-    "declared_income": 887009
+    "declared_income": null
   },
   {
     "citizen_id": "C094",
-    "declared_income": 240748
+    "declared_income": 765316
   },
   {
     "citizen_id": "C095",
-    "declared_income": 234117
+    "declared_income": 484665
   },
   {
     "citizen_id": "C096",
-    "declared_income": 138013
+    "declared_income": 329016
+  },
+  {
+    "citizen_id": "C097",
+    "declared_income": null
   },
   {
     "citizen_id": "C098",
-    "declared_income": 447896
+    "declared_income": 115585
+  },
+  {
+    "citizen_id": "C099",
+    "declared_income": 90514
   },
   {
     "citizen_id": "C100",
-    "declared_income": 743199
+    "declared_income": null
   }
 ]
