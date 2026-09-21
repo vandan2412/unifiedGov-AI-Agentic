@@ -94,14 +94,7 @@ For a selected citizen record, the system:
                           v
                 Final Decision Report
 
-=== FINAL DECISION REPORT ===
 
-Fraud Risk Score: XX%
-
-Risk Level: <Risk Level>
-
-Explanation:
-<Generated explanation>
 
 Recommendation:
 <Generated recommendation>
