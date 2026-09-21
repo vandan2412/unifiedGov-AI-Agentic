@@ -6,12 +6,31 @@ and detect inconsistencies and fraud across departments like Housing, Tax, Elect
 ## Project Structure
 
 UnifiedGov-AI/
-├── agents/            # Department-specific AI agents
-├── orchestrator/      # Agent coordination logic
-├── llm/               # LLM interfaces and prompts
-├── explainability/    # Explainable AI outputs
-├── data/              # Sample and processed datasets
-├── main.py            # Application entry point
+│
+├── agents/
+│   ├── housing_agent.py
+│   ├── electricity_agent.py
+│   ├── tax_agent.py
+│   └── snitch_agent.py
+│
+├── backend/
+│
+├── data/
+│   └── Sample and processed datasets
+│
+├── explainability/
+│   └── Explainability components
+│
+├── frontend/
+│
+├── llm/
+│   └── LLM and fraud scoring components
+│
+├── orchestrator/
+│   └── Agent orchestration logic
+│
+├── main.py
+├── requirements.txt
 └── README.md
 
 # UnifiedGov AI – Agentic Fraud Detection Platform
@@ -74,3 +93,17 @@ For a selected citizen record, the system:
                           |
                           v
                 Final Decision Report
+
+=== FINAL DECISION REPORT ===
+
+Fraud Risk Score: XX%
+
+Risk Level: <Risk Level>
+
+Explanation:
+<Generated explanation>
+
+Recommendation:
+<Generated recommendation>
+
+
