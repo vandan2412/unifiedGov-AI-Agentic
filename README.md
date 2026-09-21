@@ -96,7 +96,4 @@ For a selected citizen record, the system:
 
 
 
-Recommendation:
-<Generated recommendation>
-
 
