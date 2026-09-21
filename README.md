@@ -1,43 +1,8 @@
-# UnifiedGov AI
-
-UnifiedGov AI is a cross-department AI agent designed to integrate legacy government systems
-and detect inconsistencies and fraud across departments like Housing, Tax, Electricity, and Welfare.
-
-## Project Structure
-
-UnifiedGov-AI/
-│
-├── agents/
-│   ├── housing_agent.py
-│   ├── electricity_agent.py
-│   ├── tax_agent.py
-│   └── snitch_agent.py
-│
-├── backend/
-│
-├── data/
-│   └── Sample and processed datasets
-│
-├── explainability/
-│   └── Explainability components
-│
-├── frontend/
-│
-├── llm/
-│   └── LLM and fraud scoring components
-│
-├── orchestrator/
-│   └── Agent orchestration logic
-│
-├── main.py
-├── requirements.txt
-└── README.md
-
 # UnifiedGov AI – Agentic Fraud Detection Platform
 
 UnifiedGov AI is a cross-department AI system designed to identify inconsistencies and potential fraud by analyzing information across multiple government departments.
 
-The project brings together department-specific agents, an orchestration layer, fraud scoring, and explainability to produce a final risk assessment for a citizen record.
+The project brings together department-specific agents, an orchestration layer, fraud risk scoring, and explainability to produce a final risk assessment for a citizen record.
 
 ---
 
@@ -49,7 +14,7 @@ When information from departments such as Housing, Electricity, and Tax does not
 
 UnifiedGov AI explores how an agent-based AI system can coordinate information from different departments and assist in identifying suspicious records.
 
-
+---
 
 ## What the System Does
 
@@ -67,33 +32,29 @@ For a selected citizen record, the system:
 
 ## Architecture
 
-
+```text
                     Citizen Record
                           |
                           v
-                +-------------------+
-                |  Agent Orchestrator|
-                +---------+---------+
-                          |
-          +---------------+---------------+
-          |               |               |
-          v               v               v
-   Housing Agent   Electricity Agent   Tax Agent
-          |               |               |
-          +---------------+---------------+
-                          |
-                          v
-                   Snitch Agent
-                          |
-                          v
-                 Fraud Risk Scoring
-                          |
-                          v
-                Explainability Agent
-                          |
-                          v
-                Final Decision Report
-
-
-
-
+                +----------------------+
+                |  Agent Orchestrator  |
+                +----------+-----------+
+                           |
+          +----------------+----------------+
+          |                |                |
+          v                v                v
+   Housing Agent    Electricity Agent    Tax Agent
+          |                |                |
+          +----------------+----------------+
+                           |
+                           v
+                    Snitch Agent
+                           |
+                           v
+                  Fraud Risk Scoring
+                           |
+                           v
+                  Explainability Agent
+                           |
+                           v
+                  Final Decision Report
